@@ -1,0 +1,7 @@
+{
+  "customer_id": "C001",
+  "event_type": "wellness",
+  "steps": 8500,
+  "heart_rate": 78,
+  "event_time": "2026-08-25T10:00:00Z"
+}
